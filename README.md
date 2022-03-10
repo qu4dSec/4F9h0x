@@ -17,6 +17,6 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 
 
 | R.number     |Room                                                                       | Tags                                                      | Difficulty   | Description
-|     -1-      [Root me](https://tryhackme.com/room/rrootme)                               | security, web, linux, privilege-escalation | Easy         | A CTF for beginners, can you root me? 
+|     -1-      [Root me](https://tryhackme.com/room/rrootme)                               | security, web, linux, privilege-escalation                | Easy         | A CTF for beginners, can you root me? 
 
 |     -2-      [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)            | security, webapp, boot2root, cracking                     | Easy         | This is a machine that allows you to practice web app hacking and privilege escalation
