@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
+## My profile
 
-
-<p align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/afph0x.png" alt="TryHackMe"></p>
+- <img src="![image](https://user-images.githubusercontent.com/87313245/157726585-cb2c2273-2aae-469e-a4c9-b7e05d78136a.png)">
+[afph0x](https://tryhackme.com/p/afph0x)
 
