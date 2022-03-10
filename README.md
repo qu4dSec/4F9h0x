@@ -4,5 +4,5 @@
 <script type="text/javascript"
         
         
- src="https://tryhackme.com/badge/688396">TryHackme</script>
+ src='https://tryhackme.com/badge/688396'>TryHackme</script>
 
