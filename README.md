@@ -3,5 +3,5 @@
 
 
 
-<img src="./afph0x.png">
-[afph0x](https://tryhackme.com/p/afph0x)
+<p align="right"><img src="./afph0x.png"></p>
+
