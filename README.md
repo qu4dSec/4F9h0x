@@ -1,5 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/afph0x.png" alt="TryHackMe">
 
+
+<img src="./afph0x.png">
+[afph0x](https://tryhackme.com/p/afph0x)
