@@ -3,5 +3,5 @@
 
 
 
-<p align="right"><img src="./afph0x.png"></p>
+<p align="left"><img src="https://tryhackme-badges.s3.amazonaws.com/afph0x.png"></p>
 
