@@ -59,4 +59,4 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 
 
 
-There are rooms that are not here but will be added later
+There are rooms that are not here but will be added later ("and write-ups")
