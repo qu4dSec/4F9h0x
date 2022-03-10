@@ -16,6 +16,6 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 |*- TryHackMe rooms completed  -*|
 
 
-|  NO |Room                                                                       | Tags                                                      | Difficulty   |
+|  NO  |Room&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp| Tags                                                      | Difficulty   |
 | -1- | [Root me](https://tryhackme.com/room/rrootme)                             | security, web, linux, privilege-escalation                | Easy         |
 | -2- | [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)          | security, webapp, boot2root, cracking                     | Easy         |
