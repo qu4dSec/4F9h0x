@@ -4,5 +4,6 @@
 <script type="text/javascript"
         
         
- src= "https://tryhackme.com/p/afph0x" >TryHackme</script>
+ src= "<img src="https://tryhackme-badges.s3.amazonaws.com/afph0x.png" alt="TryHackMe">
+" >TryHackme</script>
 
