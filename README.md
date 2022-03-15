@@ -6,7 +6,18 @@
 I'm sharing on this github to reiterate the machines I've solved over time. I hope I was able to reflect my point of view here while reading. It helps new friends.
 
 
-## My profile
+
+##
+- 🌱 I’m currently learning skills: Cloud Computing Fundamentals and Introduction to AWS Architecture, more Cyber Security knowladge, GO...
+-  📫 How to reach me **yigiterbil22@gmail.com**
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yi%C4%9Fit-erbil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yiğit.Erbil" height="30" width="40" /></a>
+</p>
+
+## My TryHackMe Profile
 
 - <img src="https://tryhackme-badges.s3.amazonaws.com/afph0x.png?7">
 [afph0x](https://tryhackme.com/p/afph0x)
