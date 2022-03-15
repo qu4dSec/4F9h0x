@@ -78,87 +78,35 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 | [Easy Peasy](https://tryhackme.com/room/easypeasyctf) | nmap, gobuster, steganography, cron |
 | [OWASP Top 10](https://tryhackme.com/room/owasptop10) | security, owasp-top-10, easy, cron |
 | [Looking Glass](https://tryhackme.com/room/lookingglass) | wonderland, ssh, alice, CTF |
-| [10]() | |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-| [Fowsniff CTF](https://tryhackme.com/room/ctf) | portscanning, hashes, bruteforcing, pop3 |
-
+| [Psycho Break](https://tryhackme.com/room/psychobreak) | security, ctf, crypto, stego |
+| [Kiba](https://tryhackme.com/room/kiba) | RCE, elastic, python, linux-capabilities |
+| [Gaming Server](https://tryhackme.com/room/gamingserver) | security, lxd, ssh2john, boot2root |
+| [Brute It](https://tryhackme.com/room/bruteit) | security, brute-force, hash-cracking, privilege-escalation |
+| [Nerd Herd](https://tryhackme.com/room/nerdherd) | ctf, challenge, ftp, smb |
+| [RustScan](https://tryhackme.com/room/rustscan) | security, rustscan, nmap, scan |
+| [JavaScript Basics](https://tryhackme.com/room/javascriptbasics) | javascript, web-development, beginner, accessible |
+| [Chocolate Factory](https://tryhackme.com/room/chocolatefactory) | chocolatefactory, CTF, stego, privesc |
+| [Chill Hack](https://tryhackme.com/room/chillhack) | security, real-world, commandinjection, sqlinjection |
+| [John The Ripper](https://tryhackme.com/room/johntheripper0) | password-cracking, john, hash |
+| [Archangel](https://tryhackme.com/room/archangel) | security, lfi, boot2root, privilege-escalation |
+| [Cyborg](https://tryhackme.com/room/cyborgt8) | security, pentest, bash, encryption |
+| [Glitch](https://tryhackme.com/room/glitch) | web, node, rce, firefox |
+| [Intro to Windows](https://tryhackme.com/room/intro2windows) | security, windows, intro |
+| [Inferno](https://tryhackme.com/room/inferno) | security, inferno, vulnhub, oscp |
+| [Unstable Twin](https://tryhackme.com/room/unstabletwin) | security, services, sql-injection, steganography |
+| [Mustacchio](https://tryhackme.com/room/mustacchio) | xxe, enumeration, privesc, web |
+| [SQLMAP](https://tryhackme.com/room/sqlmap) | security, sqlmap, sqlinjection, tools |
+| [IDE](https://tryhackme.com/room/ide) | enumeration, public-exploit, privilege-escalation, ftp |
+| [Jr Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) | analyst, security,operation, SOC, SIEM |
+| [IDOR](https://tryhackme.com/room/idor) | security |
+| [SSRF](https://tryhackme.com/room/ssrfqi) | security |
+| [Walking An Application](https://tryhackme.com/room/walkinganapplication) | security |
+| [Content Discovery](https://tryhackme.com/room/contentdiscovery) | security |
+| [Authentication Bypass](https://tryhackme.com/room/authenticationbypass) | security |
+| [File Inclusion](https://tryhackme.com/room/fileinc) | vulnerabilities, lfi, rfi, directory-traversal |
+| [Cross-side Scripting](https://tryhackme.com/room/xssgi) | xss, cross-side-scripting, DOM, reflected-xss |
+| [Command Injection](https://tryhackme.com/room/oscommandinjection) | command-injection, web, vulnerability, web |
+| [SQL injection](https://tryhackme.com/room/sqlinjectionlm) | database, MySQL, SQL, SQLi |
+| [Wonderland](https://tryhackme.com/room/wonderland) | ctf, alice-in-wonderland, privesc, linux |
+| [Net Sec Challenge](https://tryhackme.com/room/netsecchallenge) | security, telnet, nmap, hydra |
+| [Source](https://tryhackme.com/room/source) | easy, ctf, realistic, cv |
