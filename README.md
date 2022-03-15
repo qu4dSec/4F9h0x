@@ -22,10 +22,10 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 
 ## TryHackMe Completed Rooms 
 
-| Room | Room information |
-| ------ | ------------------------- |
+| Room | Room information | Write-Ups |
+| ------ | ------------------------- | --------------|
 | [Intro To Python](https://tryhackme.com/room/introtopython) | python, programming, bitcoin|
-| [Root Me](https://tryhackme.com/room/rrootme) | security, web, linux, privilege-escalation |
+| [Root Me](https://tryhackme.com/room/rrootme) | security, web, linux, privilege-escalation | [Writeup](https://github.com/4F9h0x/THM-RootMe-Walkthrough/blob/main/RootMe) |
 | [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit) | puzzle, challenge, boot-to-root, web | 
 | [Crack The Hash](https://tryhackme.com/room/crackthehash) | ctf, dirbuster, linux |
 | [Pickle Rickle](https://tryhackme.com/room/picklerick) | portscanning, hashes, bruteforcing, pop3 |
