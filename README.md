@@ -25,7 +25,7 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 | Room | Room information | Write-Ups |
 | ------ | ------------------------- | --------------|
 | [Intro To Python](https://tryhackme.com/room/introtopython) | python, programming, bitcoin|
-| [Root Me](https://tryhackme.com/room/rrootme) | security, web, linux, privilege-escalation | [Writeup](https://github.com/4F9h0x/THM-RootMe-Walkthrough/blob/main/RootMe) |
+| [Root Me](https://tryhackme.com/room/rrootme) | security, web, linux, privilege-escalation | [writeup is here](https://github.com/4F9h0x/THM-RootMe-Walkthrough/blob/main/RootMe) |
 | [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit) | puzzle, challenge, boot-to-root, web | 
 | [Crack The Hash](https://tryhackme.com/room/crackthehash) | ctf, dirbuster, linux |
 | [Pickle Rickle](https://tryhackme.com/room/picklerick) | portscanning, hashes, bruteforcing, pop3 |
@@ -36,12 +36,12 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 | [UltraTech](https://tryhackme.com/room/ultratech1) | security, pentest, enumeration, web |
 | [Ignite](https://tryhackme.com/room/ignite) | ctf, boot2root, privesc, exploit |
 | [Vulnversity](https://tryhackme.com/room/vulnversity) | recon, privesc, webappsec, video |
-| [Simpe CTF](https://tryhackme.com/room/easyctf) | security, enumeration, privesc |
+| [Simpe CTF](https://tryhackme.com/room/easyctf) | security, enumeration, privesc | [writeup is here](https://github.com/4F9h0x/THM-Simple-CTF-Walkthrough) |
 | [Library](https://tryhackme.com/room/bsidesgtlibrary) | security |
-| [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) | security, webapp, boot2root, cracking |
+| [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) | security, webapp, boot2root, cracking | [writeup is here](https://github.com/4F9h0x/THM-Basic-Pentesting-walkthrough/blob/main/Basic_Pentesting) |
 | [Anonforce](https://tryhackme.com/room/bsidesgtanonforce) | portscanning, hashes, bruteforcing, pop3 |
 | [Fowsniff CTF](https://tryhackme.com/room/ctf) | security |
-| [Boiler CTF](https://tryhackme.com/room/boilerctf2) | ctf, ftp, ssh, webmin |
+| [Boiler CTF](https://tryhackme.com/room/boilerctf2) | ctf, ftp, ssh, webmin | [writeup is here](https://github.com/4F9h0x/THM-Boiler-CTF-Walkthrough/blob/main/Boiler_CTF) |
 | [Dav](https://tryhackme.com/room/bsidesgtdav) | security |
 | [Kenobi](https://tryhackme.com/room/kenobi) | samba, path-var-manupilation, suid ,smb |
 | [Biohazard](https://tryhackme.com/room/biohazard) | cipher, base, stego, root |
@@ -51,7 +51,7 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 | [Tmux](https://tryhackme.com/room/rptmux) | red, primer, tmux, tutorial |
 | [Metasploit](https://tryhackme.com/room/rpmetasploit) | red, primer, metasploit, msf |
 | [Wget CTF](https://tryhackme.com/room/wgelctf) | security |
-| [Agent Sudo](https://tryhackme.com/room/agentsudoctf) | enumerate, exploit, brute-force, hash-cracking |
+| [Agent Sudo](https://tryhackme.com/room/agentsudoctf) | enumerate, exploit, brute-force, hash-cracking | [writeup is here](https://github.com/4F9h0x/THM-Agent-Sudo-Walkthrough) |
 | [Ice](https://tryhackme.com/room/ice) | windows, nmap, mimkatz, metasploit |
 | [Anthem](https://tryhackme.com/room/anthem) | windows, cms, enumeration, weekly-challenge |
 | [Lazy Admin](https://tryhackme.com/room/lazyadmin) | security, linux |
@@ -71,7 +71,7 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 | [Upload Vulnerabilities](https://tryhackme.com/room/uploadvulns) | file-upload-vulnerabilities, beginner, tutorial, web |
 | [Break Out The Cage](https://tryhackme.com/room/breakoutthecage1) | python, stego, rot13, mail |
 | [Active Directory basic](https://tryhackme.com/room/activedirectorybasics) | security, windows, active-directory, cloud-AD |
-| [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) | linux, tar, privesc, security |
+| [Bounty Hacker](https://tryhackme.com/room/cowboyhacker) | linux, tar, privesc, security | [writeup is here](https://github.com/4F9h0x/THM-Bounty-Hacker-Walkthrough/blob/main/Bounty_Hacker) |
 | [Brookly Nine Nine](https://tryhackme.com/room/brooklynninenine) | security, gobuster, nmap, pentest |
 | [Encryption-Crypto 101](https://tryhackme.com/room/encryptioncrypto101) | security, crypto, 101, encryption |
 | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop) | juiceshop, owaps, burp, web |
