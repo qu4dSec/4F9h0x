@@ -24,7 +24,6 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 
 | Room | Room information | Write-Ups |
 | ------ | ------------------------- | --------------|
-| [Intro To Python](https://tryhackme.com/room/introtopython) | python, programming, bitcoin| Loading... |
 | [Root Me](https://tryhackme.com/room/rrootme) | security, web, linux, privilege-escalation | [writeup is here](https://github.com/4F9h0x/THM-RootMe-Walkthrough/blob/main/RootMe) |
 | [Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit) | puzzle, challenge, boot-to-root, web | Loading... | 
 | [Crack The Hash](https://tryhackme.com/room/crackthehash) | ctf, dirbuster, linux | Loading... |
