@@ -17,7 +17,7 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 
 ## My TryHackMe Profile
 
-- <img src="https://tryhackme-badges.s3.amazonaws.com/afph0x.png?0">
+- <img src="https://tryhackme-badges.s3.amazonaws.com/afph0x.png?7">
 [afph0x](https://tryhackme.com/p/afph0x)
 
 ## TryHackMe Completed Rooms 
