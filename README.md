@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yigit</h1>
-<h3 align="center">Pentester candidate. Interested in Cloud technology. Someone who enjoys learning and self-development</h3>
+<h3 align="center">Junior Pentester. Interested in Cloud technology. Someone who enjoys learning and self-development</h3>
 
 I'm sharing on this github to reiterate the machines I've solved over time. I hope I was able to reflect my point of view here while reading. It helps new friends.
 
