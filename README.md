@@ -43,7 +43,7 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 | [Boiler CTF](https://tryhackme.com/room/boilerctf2) | ctf, ftp, ssh, webmin | [writeup is here](https://github.com/4F9h0x/THM-Boiler-CTF-Walkthrough/blob/main/Boiler_CTF) |
 | [Dav](https://tryhackme.com/room/bsidesgtdav) | security | Loading... |
 | [Kenobi](https://tryhackme.com/room/kenobi) | samba, path-var-manupilation, suid ,smb | Loading... |
-| [Biohazard](https://tryhackme.com/room/biohazard) | cipher, base, stego, root | Loading... | [writeup is here](https://yigiterbil.medium.com/tryhackme-biohazard-writeup-aa8f37cd3084)
+| [Biohazard](https://tryhackme.com/room/biohazard) | cipher, base, stego, root | [writeup is here](https://yigiterbil.medium.com/tryhackme-biohazard-writeup-aa8f37cd3084) |
 | [Steel Mountin](https://tryhackme.com/room/steelmountain) | windows, poweshell, nmap, metasploit | Loading... |
 | [HA Joker CTF](https://tryhackme.com/room/jokerctf) | nmap, burp, dirb, lxc | Loading... |
 | [Skynet](https://tryhackme.com/room/skynet) | gobuster, smb, rfi | Loading... |
