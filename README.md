@@ -53,7 +53,7 @@ I'm sharing on this github to reiterate the machines I've solved over time. I ho
 | [Agent Sudo](https://tryhackme.com/room/agentsudoctf) | enumerate, exploit, brute-force, hash-cracking | [writeup is here](https://github.com/4F9h0x/THM-Agent-Sudo-Walkthrough) |
 | [Ice](https://tryhackme.com/room/ice) | windows, nmap, mimkatz, metasploit | Loading... |
 | [Anthem](https://tryhackme.com/room/anthem) | windows, cms, enumeration, weekly-challenge | Loading... |
-| [Lazy Admin](https://tryhackme.com/room/lazyadmin) | security, linux | Loading... |
+| [Lazy Admin](https://tryhackme.com/room/lazyadmin) | security, linux | [writeup is here](https://quadsec.hashnode.dev/lazyadmin-walktrough) |
 | [CC: Pen Testing](https://tryhackme.com/room/ccpentesting) | security, pen-testing, beginner | Loading... |
 | [Madness](https://tryhackme.com/room/madness) | security, steganography, web, challenge | Loading... |
 | [Jack Of All Trades](https://tryhackme.com/room/jackofalltrades) | securi-tay, conference, challenge, boot-to-root | Loading... |
