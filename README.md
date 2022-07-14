@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yigit</h1>
-<h3 align="center">Junior Pentester. Interested in Cloud technology. Someone who enjoys learning and self-development</h3>
+<h3 align="center">Junior Pentester. Interested in Cyber Threat Intelligence. Someone who enjoys learning and self-development</h3>
 
 I'm sharing on this github to reiterate the machines I've solved over time. I hope I was able to reflect my point of view here while reading. It helps new friends.
 
 
 
 ##
-- 🌱 I’m currently learning skills: Cloud Computing Fundamentals and Introduction to AWS Architecture, more Cyber Security knowladge, GO...
+- 🌱 I’m currently learning skills: CTI Intert @Brandefense, more Cyber Security knowladge, GO...
 -  📫 How to reach me **yigiterbil22@gmail.com**
 <br>
 
